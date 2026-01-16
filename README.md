@@ -1,7 +1,8 @@
-grocery-stockmate
+<h4>"grocery-stockmate"</h4>
 <br>
-Grocery Inventory Management 
-🛒 Grocery Inventory Management System (Flask + SQLite)
+<h4>Grocery Inventory Management</h4>
+<br>
+<h4>🛒 Grocery Inventory Management System (Flask + SQLite)</h4>
 
 A simple web-based **Grocery Inventory Management System** built using **Flask, SQLite, Bootstrap, and JavaScript**.  
 This project helps you manage grocery items by storing details like **category, manufacturing date, expiry date, quantity, and price**.  
