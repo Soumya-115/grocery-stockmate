@@ -1,4 +1,5 @@
-<h4>"grocery-stockmate"</h4>
+#Big Title
+"grocery-stockmate"
 <br>
 <h4>Grocery Inventory Management</h4>
 <br>
