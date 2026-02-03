@@ -2,6 +2,7 @@
 "grocery-stockmate"
 <br>
 Grocery Inventory Management
+<br>
 🛒 Grocery Inventory Management System (Flask + SQLite)
 
 A simple web-based **Grocery Inventory Management System** built using **Flask, SQLite, Bootstrap, and JavaScript**.  
